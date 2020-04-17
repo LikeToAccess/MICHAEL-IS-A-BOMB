@@ -14,4 +14,4 @@ def game_loop():
 			quit()
 
 	screen.fill((255,255,255))
-	pygame.display.update()
+	pygame.display.flip()
