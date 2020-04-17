@@ -7,7 +7,7 @@ def main():
 	while running:
 		game_loop()
 
-#gvhjkvgbhjkbhjk
+#"Please don't add meaningless comments or I will FIRE YOU" - Ben?
 if __name__ == "__main__":
 	main()
 
