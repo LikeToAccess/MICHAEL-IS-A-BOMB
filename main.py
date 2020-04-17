@@ -7,7 +7,7 @@ def main():
 	while running:
 		game_loop()
 
-
+#gvhjkvgbhjkbhjk
 if __name__ == "__main__":
 	main()
 
